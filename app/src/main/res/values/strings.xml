@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ContextualActionBar</string>
+    
+    <string-array name="name">
+        <item>Muhammad Arslan</item>
+        <item>Usaid Ullah Saeed</item>
+        <item>Mirza Shafique</item>
+        <item>Faheem Ashraf</item>
+        <item>Shadab Khan</item>
+        <item>Hasan Ali</item>
+        <item>Hassaan Khan</item>
+        <item>Rana Faheem Ashraf</item>
+        <item>Muhammad Aslam Khan</item>
+        <item>Muhammad Danish</item>
+    </string-array>
+
+    <string-array name="email">
+        <item>marslannasr@gmail.com</item>
+        <item>usiadi@gmail.com</item>
+        <item>shafique@gmail.com</item>
+        <item>faheem@gmail.com</item>
+        <item>shaddy@gmail.com</item>
+        <item>alihasan@gmail.com</item>
+        <item>khan@gmail.com</item>
+        <item>ranafaheem@gmail.com</item>
+        <item>aslam@gmail.com</item>
+        <item>danish@gmail.com</item>
+    </string-array>
+</resources>
